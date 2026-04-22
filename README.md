@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, world 🌍
 
-<!--
-**MintHarvey656/MintHarvey656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **MintHarvey656**, a principal engineer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌟 Open source enthusiast
+- 🤔 Exploring new technologies
+- 📚 Reading the source is the best documentation
+- 🛠️ Build small, ship often
+
+## Tech
+
+`C++` `JavaScript` `Axum` `Echo`
+
+---
+
+_Yes js frameworks please._
